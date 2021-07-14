@@ -5,9 +5,12 @@
 # Projeto Digital Innovation One Java Spring
 # Projeto: Construindo um projeto com arquitetura baseada em microsserviços usando Spring Cloud
 Este projeto foi proposto pela Digital Innovation One 
-- Link do código original: ????
+- Link do código original: https://github.com/oswaldoneto/dio-experts   e   https://github.com/oswaldoneto/dio-experts-config
 - Professor: Osvaldo Neto
 - Aula: https://web.digitalinnovation.one/lab/construindo-um-projeto-com-arquitetura-baseada-em-microsservicos-usando-spring-cloud/learning/d0f173d1-0054-4156-9746-c4c7ffce9ca9
 
 # Descrição
 Aprenda na prática como funciona uma arquitetura de software baseada em microsserviços, os seus benefícios e desafios, assim como faremos um projeto em Java com Spring Cloud para você desenvolver o seu portfólio de projetos.
+
+# Detalhes
+- Utilizado: ElasticSearch, Redis, Spring Cloud, Java
