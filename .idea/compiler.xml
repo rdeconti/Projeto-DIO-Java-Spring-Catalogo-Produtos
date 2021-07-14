@@ -10,8 +10,11 @@
       <module name="product-catalog.test" target="1.8" />
       <module name="service-discovery.main" target="1.8" />
       <module name="service-discovery.test" target="1.8" />
+      <module name="shopping-cart" target="1.8" />
       <module name="shopping-cart.main" target="1.8" />
       <module name="shopping-cart.test" target="1.8" />
+      <module name="shopping-cart_main" target="1.8" />
+      <module name="shopping-cart_test" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>

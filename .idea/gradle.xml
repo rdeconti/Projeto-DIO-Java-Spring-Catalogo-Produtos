@@ -4,9 +4,10 @@
   <component name="GradleSettings">
     <option name="linkedExternalProjectsSettings">
       <GradleProjectSettings>
+        <option name="delegatedBuild" value="true" />
+        <option name="testRunner" value="GRADLE" />
         <option name="distributionType" value="DEFAULT_WRAPPED" />
         <option name="externalProjectPath" value="$PROJECT_DIR$/uss-config-server" />
-        <option name="gradleHome" value="/opt/gradle/gradle-6.8" />
         <option name="gradleJvm" value="#JAVA_HOME" />
         <option name="modules">
           <set>
@@ -15,9 +16,10 @@
         </option>
       </GradleProjectSettings>
       <GradleProjectSettings>
+        <option name="delegatedBuild" value="true" />
+        <option name="testRunner" value="GRADLE" />
         <option name="distributionType" value="DEFAULT_WRAPPED" />
         <option name="externalProjectPath" value="$PROJECT_DIR$/uss-gateway" />
-        <option name="gradleHome" value="/opt/gradle/gradle-6.8" />
         <option name="gradleJvm" value="#JAVA_HOME" />
         <option name="modules">
           <set>
@@ -26,9 +28,10 @@
         </option>
       </GradleProjectSettings>
       <GradleProjectSettings>
-        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="delegatedBuild" value="true" />
+        <option name="testRunner" value="GRADLE" />
+        <option name="distributionType" value="WRAPPED" />
         <option name="externalProjectPath" value="$PROJECT_DIR$/uss-product-catalog" />
-        <option name="gradleHome" value="/opt/gradle/gradle-6.8" />
         <option name="gradleJvm" value="#JAVA_HOME" />
         <option name="modules">
           <set>
@@ -37,9 +40,10 @@
         </option>
       </GradleProjectSettings>
       <GradleProjectSettings>
+        <option name="delegatedBuild" value="true" />
+        <option name="testRunner" value="GRADLE" />
         <option name="distributionType" value="DEFAULT_WRAPPED" />
         <option name="externalProjectPath" value="$PROJECT_DIR$/uss-service-discovery" />
-        <option name="gradleHome" value="/opt/gradle/gradle-6.8" />
         <option name="gradleJvm" value="#JAVA_HOME" />
         <option name="modules">
           <set>
@@ -48,9 +52,10 @@
         </option>
       </GradleProjectSettings>
       <GradleProjectSettings>
+        <option name="delegatedBuild" value="true" />
+        <option name="testRunner" value="GRADLE" />
         <option name="distributionType" value="DEFAULT_WRAPPED" />
         <option name="externalProjectPath" value="$PROJECT_DIR$/uss-shopping-cart" />
-        <option name="gradleHome" value="/opt/gradle/gradle-6.8" />
         <option name="gradleJvm" value="#JAVA_HOME" />
         <option name="modules">
           <set>

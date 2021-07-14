@@ -13,4 +13,9 @@ Este projeto foi proposto pela Digital Innovation One
 Aprenda na prática como funciona uma arquitetura de software baseada em microsserviços, os seus benefícios e desafios, assim como faremos um projeto em Java com Spring Cloud para você desenvolver o seu portfólio de projetos.
 
 # Detalhes
-- Utilizado: ElasticSearch, Redis, Spring Cloud, Java
+- Utilizado: 
+  ElasticSearch para Product Catalog
+  Redis para Cart
+  Eureka para Service Discovery
+  Spring Cloud, 
+  Java

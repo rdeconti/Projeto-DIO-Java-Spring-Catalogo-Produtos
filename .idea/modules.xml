@@ -15,9 +15,9 @@
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/service-discovery.iml" filepath="$PROJECT_DIR$/.idea/modules/service-discovery.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/service-discovery.main.iml" filepath="$PROJECT_DIR$/.idea/modules/service-discovery.main.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/service-discovery.test.iml" filepath="$PROJECT_DIR$/.idea/modules/service-discovery.test.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/shopping-cart.iml" filepath="$PROJECT_DIR$/.idea/modules/shopping-cart.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/shopping-cart.main.iml" filepath="$PROJECT_DIR$/.idea/modules/shopping-cart.main.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/shopping-cart.test.iml" filepath="$PROJECT_DIR$/.idea/modules/shopping-cart.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/shopping-cart.iml" filepath="$PROJECT_DIR$/.idea/modules/shopping-cart.iml" group="shopping-cart" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/shopping-cart_main.iml" filepath="$PROJECT_DIR$/.idea/modules/shopping-cart_main.iml" group="shopping-cart" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/shopping-cart_test.iml" filepath="$PROJECT_DIR$/.idea/modules/shopping-cart_test.iml" group="shopping-cart" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/uss-config-server.iml" filepath="$PROJECT_DIR$/.idea/modules/uss-config-server.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/uss-config-server.main.iml" filepath="$PROJECT_DIR$/.idea/modules/uss-config-server.main.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/uss-config-server.test.iml" filepath="$PROJECT_DIR$/.idea/modules/uss-config-server.test.iml" />
